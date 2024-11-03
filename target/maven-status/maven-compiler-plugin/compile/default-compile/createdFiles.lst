@@ -1,0 +1,10 @@
+com/aemcentral/vmmonitor/VmmonitorApplication.class
+com/aemcentral/vmmonitor/models/InitFile.class
+com/aemcentral/vmmonitor/initfleops/FetchValues.class
+com/aemcentral/vmmonitor/models/CurrentStatus.class
+com/aemcentral/vmmonitor/models/MachineInfo.class
+com/aemcentral/vmmonitor/models/InitialiseBody.class
+com/aemcentral/vmmonitor/controller/Controller.class
+com/aemcentral/vmmonitor/logic/Information.class
+com/aemcentral/vmmonitor/initfleops/Initialise.class
+com/aemcentral/vmmonitor/initfleops/Variables.class
